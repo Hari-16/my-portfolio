@@ -97,21 +97,25 @@ export const workData = [
         title: 'Chat App',
         description: 'Mobile App',
         bgImage: '/work-1.png',
+        url:"https://chat-app-phi-six-54.vercel.app/"
     },
     {
-        title: 'Boat Ride',
-        description: 'Web Design',
+        title: 'Weather App',
+        description: 'Web Application',
         bgImage: '/work-2.png',
+        url:"https://weather-app-sage-nine-46km73wo63.vercel.app/" 
     },
     {
         title: 'Singapore Tourism',
         description: 'Web Design',
         bgImage: '/work-3.png',
+        url:"https://singapore-tourism-website.vercel.app/"
     },
     {
         title: 'UI/UX designing',
         description: 'UI/UX Design',
         bgImage: '/work-4.png',
+        url:"https://www.figma.com/file/xyz123/Sample-UI-UX-Design"
     },
 ]
 

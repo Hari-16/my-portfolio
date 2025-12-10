@@ -19,7 +19,7 @@ const Work = () => {
                         <p className='text-sm text-gray-700'>{project.description}</p>
                         </div>
                         <div className='border rounded-full border-black h-10 w-10 aspect-square flex items-center justify-center shadow-[2px_2px_0_#000] group-hover:bg-lime-300 transition'>
-                            <Image src={assets.send_icon} alt='send icon' className='w-5'/>
+                            <a href={project.url} target="_blank" rel="noopener noreferrer"><Image src={assets.send_icon} alt='send icon' className='w-5'/></a>
                         </div>
                     </div>
                 </div>
